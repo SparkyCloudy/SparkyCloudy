@@ -33,6 +33,9 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
+   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
@@ -68,5 +71,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sparkycloudy&show_icons=true&locale=en&layout=compact" alt="sparkycloudy" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sparkycloudy&show_icons=true&locale=en" alt="sparkycloudy" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=sparkycloudy&show_icons=true&locale=en" alt="sparkycloudy" /> -->
 </p>
