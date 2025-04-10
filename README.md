@@ -12,7 +12,7 @@
   Fell in love with Java since the first day of college, love-hate relationship with PHP, and my first programming language when I found out about the word "programmer" by accident on the internet when i was kid (I don't hate it, but I will try to conquer C and C++)
 </p>
 
-- 🌱 I’m currently learning **Laravel and Spring**
+- 🌱 I’m currently learning **Spring**
 
 - ⚡ Fun fact **I love washing machine arcade game!**
 
