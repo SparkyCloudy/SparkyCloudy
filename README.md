@@ -69,7 +69,7 @@
   </a>
 </p>
 
-<p align="center">
+<!-- p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sparkycloudy&show_icons=true&locale=en&layout=compact" alt="sparkycloudy" />
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=sparkycloudy&show_icons=true&locale=en" alt="sparkycloudy" /> -->
-</p>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=sparkycloudy&show_icons=true&locale=en" alt="sparkycloudy" /> >
+</p >
